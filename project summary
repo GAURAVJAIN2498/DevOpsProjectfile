@@ -1,4 +1,4 @@
- 1; eksctl create cluster --name gaurav00 --region=us-east-1
+ 1; eksctl create cluster --name gaurav00  --region us-west-1
 
 
 2; curl.exe -LO "https://dl.k8s.io/release/v1.28.2/bin/windows/amd64/kubectl.exe"
